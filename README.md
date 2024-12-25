@@ -57,24 +57,6 @@ A simple and efficient web application built with **JavaScript**, **HTML**, and 
 
 ---
 
-## **Demo**
-
-Check out a live demo: [Current Location Weather Live](#)  
-*(Replace `#` with the link to your deployed application, if available.)*
-
----
-
-## **Screenshots**
-
-### **Weather Display**
-![Weather Display](#)  
-*(Replace `#` with a link to an image of your application showing weather details.)*
-
-### **Location Permission Prompt**
-![Location Permission](#)  
-*(Replace `#` with a link to an image of the location permission prompt.)*
-
----
 
 ## **Contributing**
 
@@ -97,9 +79,7 @@ Contributions are welcome! If you'd like to improve this application, follow the
 
 ---
 
-## **License**
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
